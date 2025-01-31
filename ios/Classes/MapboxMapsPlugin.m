@@ -1,5 +1,5 @@
 #import "MapboxMapsPlugin.h"
-#import <mapbox_gl/mapbox_gl-Swift.h>
+#import <flutter_mapbox_gl_safaribuddy/mapbox_gl-Swift.h>
 
 @implementation MapboxMapsPlugin 
 + (void)registerWithRegistrar:(NSObject<FlutterPluginRegistrar>*)registrar {
