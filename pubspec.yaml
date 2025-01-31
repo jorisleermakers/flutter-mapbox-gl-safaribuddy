@@ -1,6 +1,6 @@
 name: flutter_mapbox_gl_safaribuddy
 description: A Flutter plugin for integrating Mapbox Maps inside a Flutter application on Android, iOS and web platfroms.
-version: 0.16.0a
+version: 0.16.0+1
 homepage: https://github.com/tobrun/flutter-mapbox-gl
 
 dependencies:
